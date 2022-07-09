@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Shamir Protocol</string>
+    <string name="login">Login</string>
+    <string name="Image1">Image1</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login2">LOGIN</string>
+    <string name="button">Button</string>
+    <string name="hi_user">HELLO USER!!!</string>
+    <string name="available_files">Available Files</string>
+    <string name="share_files">Share Files</string>
+    <string name="show_files">Show Files</string>
+    <string name="files">FILES</string>
+    <string name="users">USERS</string>
+    <string name="go_back_to_menu">Go back to menu</string>
+    <string name="choose_file_to_open">Choose File To Open</string>
+    <string-array name="name_files">
+        <item>file.txt</item>
+        <item>chuj.txt</item>
+        <item>dorotka.txt</item>
+        <item>file2.txt</item>
+    </string-array>
+</resources>
